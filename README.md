@@ -10,9 +10,7 @@ Se você procura alguém dedicado, com visão analítica e paixão por tecnologi
 </br></br>
 ## Linguagens de Programação
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,anaconda,css,html,js,notion,wordpress" />
-  </a>
 </p>
 
 
