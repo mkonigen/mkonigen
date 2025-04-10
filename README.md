@@ -8,7 +8,7 @@ Se você procura alguém dedicado, com visão analítica e paixão por tecnologi
 
  <i>Entre em contato comigo para futuras colaborações ou projetos.</i>
 </br></br>
-## Linguagens de Programação
+## Linguagens e Ferramentas
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,anaconda,css,html,js,notion,wordpress" />
 </p>
